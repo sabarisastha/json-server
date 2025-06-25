@@ -11,6 +11,12 @@
       "name": "Sudalai",
       "regNo": "24205033",
       "dept": "IT"
+    },
+    {
+      "id": "e481",
+      "name": "Kumar",
+      "regNo": "12",
+      "dept": "CSE"
     }
   ]
 }
